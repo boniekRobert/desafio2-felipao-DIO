@@ -1,5 +1,5 @@
 function saldoVitorias(vitorias, derrotas) {
-    return vitorias - derrotas
+    return vitorias - derrotas;
 }
 
 let saldo = saldoVitorias(10, 5);
