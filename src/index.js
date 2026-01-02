@@ -3,7 +3,6 @@ function saldoVitorias(vitorias, derrotas) {
 }
 
 let saldo = saldoVitorias(10, 5);
-
 let nivel;
 
 if (saldo < 10) {
